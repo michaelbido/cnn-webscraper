@@ -3,6 +3,8 @@ CSCE 4444 - Fall 2017
 Homework 1 - Program
 Due Nov 4 by Midnight
 
+Copyright 2017 Michael Bido
+
 ______________________________
 Files/Directories
 
